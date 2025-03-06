@@ -1,0 +1,10 @@
+prefix: "&6[Vote]"
+vote-links:
+  1: "https://defaultvote1.com"
+  2: "https://defaultvote2.com"
+  3: "https://defaultvote3.com"
+vote-message: "&aThank you for voting! Here are your rewards:"
+reward-commands:
+  - "give %player% minecraft:diamond 1"
+  - "give %player% minecraft:emerald 2"
+  - "eco give %player% 500"

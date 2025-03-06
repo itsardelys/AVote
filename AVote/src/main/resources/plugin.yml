@@ -1,0 +1,16 @@
+name: AVote
+version: '1.0'
+main: org.example.vote.aVote.AVote
+api-version: '1.20'
+authors: [Ardelys]
+description: 'A simple voting plugin that rewards players for voting.'
+depend: [Votifier] # Votifier'ın çalışmasını zorunlu kılar
+commands:
+  vote:
+    description: 'Displays the voting links for the server.'
+    usage: '/vote'
+    permission: 'avote.use'
+permissions:
+  avote.use:
+    description: 'Allows players to use /vote command.'
+    default: true

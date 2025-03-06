@@ -1,0 +1,34 @@
+🌟 AVote - Advanced Voting System for Your Minecraft Server! 🌟
+
+AVote is a powerful and customizable Minecraft plugin that allows players to vote for your server and receive rewards. Fully compatible with Votifier, AVote helps boost your server's popularity by incentivizing players with exciting rewards!
+
+🔥 Features:
+✅ Easy to Use: Players can use the /vote command to view voting links instantly.
+✅ Fully Customizable: Configure rewards, messages, and voting links via config.yml.
+✅ Votifier Support: Players automatically receive rewards upon voting!
+✅ Multiple Rewards: Give multiple rewards at once instead of just one.
+✅ Stylish Messages: Customize prefix and messages with color codes.
+
+🎯 How to Use?
+⿡ Download and add the plugin to your server.
+⿢ Configure voting links and rewards in config.yml.
+⿣ Set up and test Votifier integration.
+⿤ Encourage players to vote and earn rewards!
+
+🚀 Why Choose AVote?
+🔹 A perfect system to grow your server and attract more players!
+🔹 Easy setup and fully customizable to fit your needs.
+🔹 Reliable and optimized, fully compatible with Votifier.
+
+⚙ Required Plugin:
+AVote requires a Votifier plugin to function correctly. Use the latest stable version from the link below:
+
+🔗 Download NuVotifier: https://www.spigotmc.org/resources/nuvotifier.13449/
+
+📌 Installation Steps:
+⿡ Download and install NuVotifier on your server.
+⿢ Configure Votifier settings in config.yml.
+⿣ Add AVote and define your rewards.
+⿤ Connect with voting sites to automate rewards!
+
+With AVote, your players will receive exciting rewards for voting, helping your server grow faster and reach a wider audience! 🚀
